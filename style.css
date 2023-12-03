@@ -1,0 +1,22 @@
+.box {
+    position: relative;
+    width: yeepx;
+    height: 2ö€px;
+    text-align: center;
+    border-radius: lepx;
+}
+
+. desc {
+    color: val (—primary);
+    margin: Iepx 16px;
+}
+
+.btn {
+    border: e;
+    background: *ICICIC;
+    padding:8px 16px;
+    border-radius: 2€px;
+    color: ;
+    margin-top: 7px;
+    transition: e.2s;
+}
